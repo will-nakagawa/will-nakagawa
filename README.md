@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nakagawa/)](https://www.linkedin.com/in/william-nakagawa/)
+
 <!--
 **will-nakagawa/will-nakagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
